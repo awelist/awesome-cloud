@@ -57,6 +57,7 @@
 - [Azure Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) – Scalable VM compute for enterprise infrastructures.
 - [DigitalOcean Droplets](https://www.digitalocean.com/products/droplets/) – Simple and affordable virtual machines.
 - [Fly.io](https://fly.io/) – Global app platform for deploying containers close to users.
+- [NodeRings](https://noderings.com) – Marketplace and console to discover, deploy, and manage compute across independent hosting providers.
 
 ## Containers & Kubernetes
 
